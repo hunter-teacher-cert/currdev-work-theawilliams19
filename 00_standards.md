@@ -1,5 +1,5 @@
 ### Théa Williams
-
+___________________________________________________________________________________________________________________________________________________________
 
 #### Concept: Networks and Systems Design
 #### Sub-concept: Networks and the Internet
@@ -18,3 +18,5 @@ ________________________________________________________________________________
 
 #### Lesson/Task/Assignment Description: 
 The focus of this standard is on using ciphers to encrypt and decrypt messages as a means of safeguarding data. Google CS First has a great unplugged activity titled " Send a secret message" that I used with my students last year for CS Ed Week/Hour of Code to teach my students about encryption and decryption. In this activity, students will use a shift cipher to decrypt a message and then create a cipher wheel and use it to encrypt their own secret message, then send it to a friend to see if they can decrypt it. 
+
+___________________________________________________________________________________________________________________________________________________________
