@@ -1,7 +1,7 @@
 ### Théa Williams
 #### Concept: Networks and Systems Design
 #### Sub-concept: Networks and the Internet
-#### Standard: 4-6.NSD.4 Model how data is structured to transmit through a network.
+#### Standard: 4-6.NSD.4 - Model how data is structured to transmit through a network.
 ### *This lesson activity is based on one I participated in during an SEP Jr. PD session.
 
 ### Lesson/Task/Assignment Description: 
