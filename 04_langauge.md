@@ -5,7 +5,7 @@ Answer the following prompts:
 ___________________________________________________________________________________________________________________________________________________________
 #### What is the course? (grade level, student experience)
 Grade Level: 4
-Student Experience: None - beginner (students currently have very underlying digital fluency skills - eg, don't know how to copy/paste, create a bookmark in a browser, etc)
+Student Experience: None - beginner (students currently have very underlying digital fluency skills - eg, don't know how to copy/paste, create a bookmark in a browser, etc).
 ___________________________________________________________________________________________________________________________________________________________
 #### What is the language?
 Snap
