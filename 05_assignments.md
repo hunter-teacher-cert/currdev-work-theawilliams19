@@ -8,7 +8,7 @@ Have vocabulary words in a bowl and each partnership picks 1 term.
 Students work in partnerships (driver/navigator) to complete the Animate a Name activity on Scratch for one of the terms and include the definition for the word in their own words.
 Students  jigsaw share out their definition
 
-####Key Terms and Definitions
+#### Key Terms and Definitions
 
 _Algorithm_ 
 A process or set of rules to be followed in calculations or other problem-solving operations especially by a computer
