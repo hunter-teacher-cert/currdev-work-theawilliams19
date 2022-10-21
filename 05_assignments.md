@@ -10,32 +10,40 @@ Students  jigsaw share out their definition
 
 #### Key Terms and Definitions
 
-_Algorithm_ 
+**Algorithm**
 A process or set of rules to be followed in calculations or other problem-solving operations especially by a computer
-_Artificial Intelligence_
+
+**Artificial Intelligence**
 The ability of a digital computer or computer-controlled robot to perform tasks commonly associated with human beings. The term is frequently applied to the project of developing
 systems endowed with the intellectual processes characteristic of humans, such as the ability to reason, discover meaning, generalize, or learn from past experience.
-_Bias_ 
+
+**Bias** 
 *Prejudice* 
 in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.
-*Ethnicity*
+
+**Ethnicity**
 While this is a contested term among anthropologists, sociologists, and others, this generally refers to identification based on shared culture, where people live, language(s)
 spoken, etc.
-*Identity*
+
+**Identity**
 How one defines oneself in relation to qualities, beliefs, cultural practices, and more. This may or may not be defined according to racial/ethnic identity, gender identity, family
 origins, etc.
-*Latinx*
+
+**Latinx**
 Refers to the ethnicity of people who are from or have a background in a Latin American country. Since “Latino” is a masculine adjective in the Spanish language and does not give
 visibility to those who do not identify as men, the term “Latinx” was created with the intention to be inclusive of all gender identities.
-*Nationality*
+
+**Nationality**
 A legal identification of a person in international law, establishing the person as a subject,
 a national, of a sovereign state. It affords the state jurisdiction over the person and affords
 the person the protection of the state against other states.
-*Race*
+
+**Race**
 A social construct that is not rooted in science, but has been created by humans to
 identify groups based on shared physical characteristics. Race does not clearly delineate
 identification based on ancestry, heritage culture, etc.
-*Racism*
+
+**Racism**
 A system that gives power to some and oppresses others based on race. It is the result of
 social and institutional powers working in tandem with racial prejudice. There are different
 forms of racism, for example interpersonal, internalized, institutional, and structural to
@@ -46,11 +54,12 @@ policies and practices either within or across institutions favor a specific gro
 disadvantages others. Structural racism involves a system of institutional practices, public
 policies, and belief systems creating structures of power for some and oppression for
 others.
-*Racist*
+
+**Racist**
 Actions, measures, ideas, policies, etc. that produce and sustain that one racial group is
 superior to another racial group, thereby supporting systems of power and oppression that
 elevate some and oppress all others.
 
 
-*Early Finishers:*
+**Early Finishers:**
 Sketch their character sprite plan 
