@@ -119,7 +119,7 @@ What obstacles did they face?
 
 
 ![Image of Pioneer Calendar](https://github.com/hunter-teacher-cert/currdev-work-theawilliams19/blob/main/pioneer%20calendar.jpg)
-![**Pioneer Calendar:**](https://docs.google.com/presentation/d/19vLOICQqDf-3cWWtFeWkOlnPnTyBXPDAhetw7M_AKto/edit?usp=sharing)
+[**Pioneer Calendar:**](https://docs.google.com/presentation/d/19vLOICQqDf-3cWWtFeWkOlnPnTyBXPDAhetw7M_AKto/edit?usp=sharing)
 Students work in pairs to explore one month of the calendar.
 Share out about the pioneers for that month. 
 
