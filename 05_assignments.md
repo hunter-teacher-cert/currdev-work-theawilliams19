@@ -18,6 +18,7 @@ Vocabulary words will be combined into a Scratch Studio for future student refer
 
 
 **Early Finishers:**
+
 Sketch their character sprite plan 
 
 
