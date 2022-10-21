@@ -130,3 +130,31 @@ https://www.flippity.net/vb.php?k=1oDWXJjfdsYsvaFFPjZECnXwkRwPRXZYRNfD6IuB_c9c
 ![Image of CS Scavenger Hunt](https://github.com/hunter-teacher-cert/currdev-work-theawilliams19/blob/main/cs%20scavenger%20hunt.jpg)
 
 ---
+
+# Lesson 4 of Unit LET'S POWER ON EQUITY FOR CS
+
+**Mini-Lesson**
+Read Chapters 3-4
+Reread Stop and Discuss:
+What is computer science?
+How is CS changing different fields? (i.e. entertainment, health care, sports, education, fashion, climate change, space exploration, etc.)
+What was the counselor’s response when Christine requested to enroll into the Intro to Computer Science course?
+Jon has a new ally in his Computer Science class. What do you think the role of an ally is?
+
+**Turn and Talk:**
+Why do some students lack access to computer science education? Hint: Think about the people discussed in this chapter and how different aspects of their identity affected their access to computer science.
+
+
+Let’s think about some activities that we see Jon doing during this chapter. How was he an ally? (students share out)
+Throughout the chapter, different characters step up in different ways to support each other. Share any way you see allyship. 
+
+(Teacher will record answers on the board/chart paper)
+
+**Partner/Independent work**
+How can you become an ally and bring awareness to access for CS? 
+Working with a partner or independently you will create a poster or remix a scratch project to bring awareness to support all students having access to CS without the fear of bullying.
+
+
+**Wrap-up/Share out:**
+What are different ways we can share our posters and projects to spread awareness to our school and community? 
+
