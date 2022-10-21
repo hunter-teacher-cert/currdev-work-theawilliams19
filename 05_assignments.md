@@ -1,6 +1,6 @@
 # Lesson 1 of Unit LET'S POWER ON EQUITY FOR CS
 
-Frontload vocabulary 
+**Frontload Vocabulary** 
 Read Chapter 1 of “Power On” book by: Jean J. Ryoo and Jane Margolis
 Interactive Vocabulary Game
 
@@ -63,3 +63,33 @@ elevate some and oppress all others.
 
 **Early Finishers:**
 Sketch their character sprite plan 
+
+----
+
+# Lesson 2 of Unit LET'S POWER ON EQUITY FOR CS
+
+**Character Analysis**
+During 2nd reading of Chapter 2
+Students in heterogeneous groups discuss 1 character in the book, and create a social media profile for the character on poster/chart paper (add a post-it with a ? for unknown sections about the character).
+Gallery walk students share feedback (and if possible add a post-it with answers for ?)
+Independent work - students create a sprite for the character (to have for future use)
+
+
+1. Where is the setting of this story?
+2. What are Antonio's parents fighting about?
+3. What are Antonio and Taylor going to miss about not being at the same school with Christine?
+4. Why did the newsfeed make Antonio upset?
+5. What is Artificial Intelligence? What are some characteristics that artificial intelligence can learn?
+6. What is an algorithm?
+
+
+Turn and Talk: Joy Buolamwini what was the issue that this person discovered in her research? What did she have to do in order for her computer to recognize her?
+12. Highlight the stats in the text Discussion: Impressions Thoughts and Questions
+The percentage of the Black and Latinx workforce in comparison to the Black and Latinx population in California:
+ 7% workforce vs 39% (Latinx) + 6% (Black) population 
+Only 26% of the professional computing occupations are held by women, even though women make up 50% of the population. Of the 26% women in tech 7% Asian, 3% African American, 2% Latina 
+Only 3% of students that are enrolled in Computer Science courses in the state of California 
+
+
+Describe the four main characters in this graphic novel. What do we know about each character so far?
+
