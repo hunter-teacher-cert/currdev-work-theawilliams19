@@ -95,4 +95,4 @@ Only 3% of students that are enrolled in Computer Science courses in the state o
 
 Describe the four main characters in this graphic novel. What do we know about each character so far?
 
-![photo of each character with text box to record character analysis](https://https://github.com/hunter-teacher-cert/currdev-work-theawilliams19/edit/main/05_assignments.md/Power On Character Analysis slide.jpg)
+![photo of each character with text box to record character analysis](Power On Character Analysis slide.jpg)
