@@ -1,12 +1,22 @@
 # Lesson 1 of Unit LET'S POWER ON EQUITY FOR CS
 
-**Frontload Vocabulary** 
+**Mini-Lesson**
+Frontload a review of the vocabulary with definitions
 Read Chapter 1 of “Power On” book by: Jean J. Ryoo and Jane Margolis
-Interactive Vocabulary Game
+
 
 Have vocabulary words in a bowl and each partnership picks 1 term.
+**Partner Work**
 Students work in partnerships (driver/navigator) to complete the Animate a Name activity on Scratch for one of the terms and include the definition for the word in their own words.
-Students  jigsaw share out their definition
+
+**Share**
+Students jigsaw share out their definition
+Vocabulary words will be combined into a Scratch Studio for future student reference.
+
+
+**Early Finishers:**
+Sketch their character sprite plan 
+
 
 #### Key Terms and Definitions
 
@@ -61,19 +71,13 @@ superior to another racial group, thereby supporting systems of power and oppres
 elevate some and oppress all others.
 
 
-
-**Early Finishers:**
-Sketch their character sprite plan 
-
 ----
 
 # Lesson 2 of Unit LET'S POWER ON EQUITY FOR CS
 
-**Character Analysis**
-During 2nd reading of Chapter 2
-Students in heterogeneous groups discuss 1 character in the book, and create a social media profile for the character on poster/chart paper (add a post-it with a ? for unknown sections about the character).
-
-
+**Mini-Lesson**
+Character Analysis
+During 2nd reading of Chapter 2: Stop and Discuss
 1. Where is the setting of this story?
 2. What are Antonio's parents fighting about?
 3. What are Antonio and Taylor going to miss about not being at the same school with Christine?
@@ -83,19 +87,19 @@ Students in heterogeneous groups discuss 1 character in the book, and create a s
 
 
 Turn and Talk: Joy Buolamwini what was the issue that this person discovered in her research? What did she have to do in order for her computer to recognize her?
-
-12. Highlight the stats in the text Discussion: Impressions Thoughts and Questions
+Highlight the stats in the text Discussion: Impressions Thoughts and Questions
 The percentage of the Black and Latinx workforce in comparison to the Black and Latinx population in California:
  7% workforce vs 39% (Latinx) + 6% (Black) population 
 Only 26% of the professional computing occupations are held by women, even though women make up 50% of the population. Of the 26% women in tech 7% Asian, 3% African American, 2% Latina 
 Only 3% of students that are enrolled in Computer Science courses in the state of California 
 
-
-Describe the four main characters in this graphic novel. What do we know about each character so far?
+**Group work:**  Describe one of the four main characters in this graphic novel. What do we know about each character so far?
+Students in heterogeneous groups discuss 1 character in the book, and create a social media profile for the character on poster/chart paper (add a post-it with a ? for unknown sections about the character) 
 
 **Independent work** - students create a sprite for the character (to have for future use)
 
-**Share** Gallery walk students share feedback (and if possible add a post-it with answers for ?)
+**Share out:** Gallery walk students share feedback (and if possible add a post-it with answers for ?)
+
 
 ![photo of each character with text box to record character analysis](https://github.com/hunter-teacher-cert/currdev-work-theawilliams19/blob/main/Power%20On%20Character%20Analysis%20slide.jpg)
 
