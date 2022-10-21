@@ -72,8 +72,8 @@ Sketch their character sprite plan
 **Character Analysis**
 During 2nd reading of Chapter 2
 Students in heterogeneous groups discuss 1 character in the book, and create a social media profile for the character on poster/chart paper (add a post-it with a ? for unknown sections about the character).
+
 Gallery walk students share feedback (and if possible add a post-it with answers for ?)
-Independent work - students create a sprite for the character (to have for future use)
 
 
 1. Where is the setting of this story?
@@ -96,5 +96,7 @@ Only 3% of students that are enrolled in Computer Science courses in the state o
 Describe the four main characters in this graphic novel. What do we know about each character so far?
 
 ![photo of each character with text box to record character analysis](https://github.com/hunter-teacher-cert/currdev-work-theawilliams19/blob/main/Power%20On%20Character%20Analysis%20slide.jpg)
+
+**Independent work** - students create a sprite for the character (to have for future use)
 
 ----
