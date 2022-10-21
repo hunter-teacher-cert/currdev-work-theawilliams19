@@ -127,4 +127,6 @@ Share out about the pioneers for that month.
 **Wrap-Up:**
 Groups of 4 work together to solve the scavenger hunt:
 https://www.flippity.net/vb.php?k=1oDWXJjfdsYsvaFFPjZECnXwkRwPRXZYRNfD6IuB_c9c
-[Image of CS Scavenger Hunt]()
+[Image of CS Scavenger Hunt](https://github.com/hunter-teacher-cert/currdev-work-theawilliams19/blob/main/cs%20scavenger%20hunt.jpg)
+
+---
