@@ -61,6 +61,7 @@ superior to another racial group, thereby supporting systems of power and oppres
 elevate some and oppress all others.
 
 
+
 **Early Finishers:**
 Sketch their character sprite plan 
 
@@ -84,6 +85,7 @@ Independent work - students create a sprite for the character (to have for futur
 
 
 Turn and Talk: Joy Buolamwini what was the issue that this person discovered in her research? What did she have to do in order for her computer to recognize her?
+
 12. Highlight the stats in the text Discussion: Impressions Thoughts and Questions
 The percentage of the Black and Latinx workforce in comparison to the Black and Latinx population in California:
  7% workforce vs 39% (Latinx) + 6% (Black) population 
