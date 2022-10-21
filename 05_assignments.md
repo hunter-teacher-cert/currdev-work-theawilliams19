@@ -1,24 +1,23 @@
 # Lesson 1 of Unit LET'S POWER ON EQUITY FOR CS
 
-**Mini-Lesson**
-Frontload a review of the vocabulary with definitions
+**Mini-Lesson:**
 
+Frontload a review of the vocabulary with definitions
 Read Chapter 1 of “Power On” book by: Jean J. Ryoo and Jane Margolis
 
 
-**Partner Work**
-Have vocabulary words in a bowl and each partnership picks 1 term.
+**Partner Work:**
 
+Have vocabulary words in a bowl and each partnership picks 1 term.
 Students work in partnerships (driver/navigator) to complete the Animate a Name activity on Scratch for one of the terms and include the definition for the word in their own words.
 
-**Share**
-Students jigsaw share out their definition
+**Share:**
 
+Students jigsaw share out their definition
 Vocabulary words will be combined into a Scratch Studio for future student reference.
 
 
 **Early Finishers:**
-
 Sketch their character sprite plan 
 
 
