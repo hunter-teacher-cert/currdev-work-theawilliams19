@@ -34,6 +34,6 @@ computer science projects integrated into other subject areas (e.g., SEL/Indenti
 
 
 ## Why I have selected that tool for that purpose:
-What I like most about this tool are the shared galleries you can create to group and share collections of student's projects.
+What I like most about this tool are the shared galleries you can create to group and share collections of student's projects. These also allow teachers to group studnet work by class to easily see all projects in one place. The account creation process is a bit cumbersome as student accounts have to be manually created. Also, students in the past have not liked having a separate account. For example, some of students were already using Scratch and therefore the account their create for school, would be an additional one. One other challenge with using this platform is that there is no Google SSO log-in option. Having to type a username and password can be challenging at the elementary level. 
 
 
